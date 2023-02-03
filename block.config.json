@@ -1,0 +1,8 @@
+{
+  "name": "testREgBlock",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/Sahilk111/testREgBlock",
+    "ssh": "git@github.com:Sahilk111/testREgBlock.git"
+  }
+}
